@@ -1,7 +1,8 @@
 ## Welcome To Twitter-Followers-Visualisation App
 The app is hosted here : [http://bit.ly/13IRtT1](http://bit.ly/13IRtT1)
 
-Goal: To get to know more about 
+Goal: To get to know more about:
+
 1. Rails Web App Development
 2. Backbone.js for client-side development
 3. D3.js for graph visualisation
@@ -13,4 +14,5 @@ I developed this app, which helps you to visualize the followers of a twitter us
 
 #### To Fix Issues
 
-Bugs & Issues exists in the current app-state. I will try fixing them in coming days.
+Bugs & Issues exist in the current app-state. 
+I will try fixing them in coming days.
