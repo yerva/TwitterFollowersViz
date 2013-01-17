@@ -1,0 +1,13 @@
+
+<form class="form-search" id="twitter_handle">
+  <input class="input-large" type="text" name="name" id="twitter_handle_name" 
+  placeholder="Enter twitter handle…" value="">
+  <input type="submit" id="twitter_handle_button" value="Get Twitter Viz" class="btn btn-primary"><br/>
+  <input class="input-medium" type="hidden" name="name" id="twitter_handle_parent" placeholder="" value="">
+</form>
+
+<!-- Length = <%= '@nodes.length' %>
+<ol id="entries">
+</ol>
+ -->
+

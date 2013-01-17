@@ -1,0 +1,8 @@
+<%= @entry.get('name') %>
+<%= @entry.get('id') %>
+<%= Object.keys(@followers).length %>
+<ol id="followers">
+<% for f of @followers: %>
+	<li><%= @followers[f].screen_name %></li>
+<% end %>
+</ol>
