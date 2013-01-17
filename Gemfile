@@ -11,6 +11,9 @@ group :development, :test do
   gem 'annotate', '2.5.0'
 end
 
+group :production do
+  gem "pg"
+end
 
 
 # Gems used only for assets and not required
@@ -37,7 +40,7 @@ gem 'bootstrap-will_paginate', '0.0.6'
 
 gem "d3_rails"
 # gem "twitter",   '~> 4.4.3'
-gem 'twitter', '3.0.0.rc.1'
+# gem 'twitter', '3.0.0.rc.1'
 # gem "grackle"
 
 
