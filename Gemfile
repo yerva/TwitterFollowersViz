@@ -39,7 +39,7 @@ gem 'will_paginate', '3.0.3'
 gem 'bootstrap-will_paginate', '0.0.6'
 
 gem "d3_rails"
-# gem "twitter",   '~> 4.4.3'
+gem "twitter",   '~> 4.4.3'
 # gem 'twitter', '3.0.0.rc.1'
 # gem "grackle"
 
